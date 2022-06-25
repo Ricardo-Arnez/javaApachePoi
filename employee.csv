@@ -1,0 +1,4 @@
+ID, NAME, SALARY, DEPARTMENT, MANGER
+1.0, John Smith, 70000, IT, Steve
+2.0, Mary Stokes,80000, DATA, Carl
+3.0, Dave Quigley, 90000, SALES, Rupert 
